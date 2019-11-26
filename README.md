@@ -12,4 +12,6 @@ md2mm.mk2mm("test.md", "test.mm")
 ## To do 
 
 - markdown to graphviz
-- extract bold sentence or words as nodes
+- extract bold sentence or words as  node note
+- extract a brief report which contains heads, topic sentence(bold sentence), tables and figures
+- fix mk2mm to generat mind map which includs topic sentence as notes(bold sentence), tables and figures etc for pre-writting
